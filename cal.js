@@ -46,7 +46,7 @@ numberButtons.forEach(button => {
     })
 })
 */
-
+//clone
 class Calculator {
     constructor(previousOperandTextElement, currentOperandTextElement) {
       this.previousOperandTextElement = previousOperandTextElement
